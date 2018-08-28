@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Routin</string>
+    <string name="title_activity_otp">OTP</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_signup">Signup</string>
+    <string name="title_activity_home">Home</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="title_activity_locality">Locality</string>
+</resources>
